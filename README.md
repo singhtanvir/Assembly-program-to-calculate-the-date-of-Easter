@@ -3,6 +3,7 @@
 This is the SPARC assembly implementation of the program which calculated date of easter based on given year
 
 Instructions to execute 
+
 First expand all the macro definitions using m4 by invoking 
 
 ```m4 main.m > main.s```
